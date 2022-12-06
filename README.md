@@ -16,7 +16,7 @@
 
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" width="40px" alt="nodeJS" src="https://user-images.githubusercontent.com/62825426/205920519-65300f60-f4fe-4f4d-9b86-76b733f7dbba.png" />
+<img align="left" width="80px" alt="nodeJS" src="https://user-images.githubusercontent.com/62825426/205920519-65300f60-f4fe-4f4d-9b86-76b733f7dbba.png" />
 
 
 
